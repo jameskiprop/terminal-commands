@@ -36,7 +36,9 @@
 
 18. ***git remote -v*** - it lists all remote repositories that your local repository knows about, and their corresponding URLS.
 
+19. ***live-server*** -it opens up the live server for your document in the server.
 
+20. ***control C*** - It terminates the server.
 
 horizontal rule ---
 Header type - ###
